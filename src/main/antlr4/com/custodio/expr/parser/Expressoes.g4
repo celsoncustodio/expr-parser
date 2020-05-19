@@ -1,4 +1,3 @@
-
 grammar Expressoes;
 
 programa returns [ int val ]
